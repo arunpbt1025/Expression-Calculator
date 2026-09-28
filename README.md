@@ -6,7 +6,7 @@ A Stack-based mathematical expression calculator built in C language for BCA 2nd
 
 ## 🚀 Features
 - **Data Structure Used:** Stack (LIFO)
-- **Step-by-Step Tracing:** Displays Infix to Postfix conversion table and evaluation stack live.
+- **Tracing:** Displays Infix to Postfix conversion table and evaluation stack live.
 - **Operations Supported:** `+`, `-`, `*`, `/`, `%`, `^` (Power), and parentheses `()`.
 - **Number Support:** Handles multi-digit integers and floating-point numbers.
 - **Cross-Platform:** Pure standard C code without external dependencies.
