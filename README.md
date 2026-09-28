@@ -13,7 +13,7 @@ A Stack-based mathematical expression calculator built in C language for BCA 2nd
 
 ---
 
-**## 🛠️ How to Compile & Run 
+**## 🛠️ How to Compile & Run : 
 Open VS code and run - gcc calculator.c -o calculator;.\calculator.exe**
 
 ## 👥 Project Team Members
